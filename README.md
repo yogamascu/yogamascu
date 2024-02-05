@@ -1,5 +1,6 @@
-## Ciao a tutti, Yoga Mascu here!
-# ✨ 🐧 ✨
+## $${\color{gold}Ciao \space\ a\space\  Tutti,\space \color{white}Yoga\space\ Mascu \space\ here! }$$
+
+# $${✨ 🐧 ✨}$$
 
 #### :dependabot: **`A Beginner Data Sciecne Student @Purwadhika Yogyakarta`**
 
