@@ -27,4 +27,4 @@ Obviusly this rep is just for testing and hopefully so gonna improve gradually l
 #
 <details>
  <summary><h3> 🐱 Summary </h3></summary>
-  I actually picked up most of codes from this kind gent: https://t.ly/AfJdY. And no, no CAT involed. Just me, one kind gent's existed rep, and my lousy copy/paste. See ya folks!
+  I actually picked up most of codes from this kind gent: https://t.ly/AfJdY. And no, no CAT involed. Just me, one kind gent's existed rep and never ending trial-errors. See ya folks!
